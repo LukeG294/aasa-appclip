@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "9VRRD5PG53.com.ckpnt.campuspresence.Demo",
+        "paths": [ "*" ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [ "9VRRD5PG53.com.ckpnt.campuspresence.Demo" ]
+  }
+}
