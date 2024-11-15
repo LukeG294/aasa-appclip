@@ -3,7 +3,7 @@
     "details": [
       {
         "appID": "9VRRD5PG53.com.ckpnt.campuspresence.Demo",
-        "paths": [ "*" ]
+        "paths": [ "/cs/demo" ]
       }
     ]
   },
