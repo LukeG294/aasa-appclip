@@ -2,12 +2,20 @@
   "applinks": {
     "details": [
       {
-        "appID": "9VRRD5PG53.com.ckpnt.campuspresence.Demo",
-        "paths": [ "*" ]
+        "appIDs": ["9VRRD5PG53.com.ckpnt.campuspresence.Demo"],
+        "components": [
+          {
+            "/": "/cs/demo",
+            "?": {
+              "id": "?*"
+            },
+            "comment": "Matches /cs/demo with an 'id' query parameter of one or more characters."
+          }
+        ]
       }
     ]
   },
   "appclips": {
-    "apps": [ "9VRRD5PG53.com.ckpnt.campuspresence.Demo" ]
+    "apps": ["9VRRD5PG53.com.ckpnt.campuspresence.Demo"]
   }
 }
